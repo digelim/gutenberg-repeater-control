@@ -1,0 +1,23 @@
+{
+  "name": "gutenberg-repeater-control",
+  "version": "1.0.0",
+  "description": "Adds a repeater control to Gutenberg block editor",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/digelim/gutenberg-repeater-control.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/digelim/gutenberg-repeater-control/issues"
+  },
+  "homepage": "https://github.com/digelim/gutenberg-repeater-control#readme",
+  "dependencies": {
+    "clone-deep": "^4.0.1",
+    "react-sortable-hoc": "^2.0.0"
+  }
+}
